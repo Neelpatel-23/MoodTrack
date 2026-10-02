@@ -95,10 +95,10 @@ such as 'monkeypatch' and 'tmp_path' for testing input and file operations.
 - Matplotlib
 - Pytest
 
-#### Project Structure
+## Project Structure
 
-'''text
-moodtrack/
+```text
+MoodTrack/
 ├── project.py
 ├── test_project.py
 ├── README.md
@@ -107,7 +107,8 @@ moodtrack/
 ├── data/
 │   └── moods.json
 └── graphs/
-'''
+```
+
 #### How to Run
 
 Run the program using:
