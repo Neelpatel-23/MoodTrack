@@ -97,6 +97,7 @@ such as 'monkeypatch' and 'tmp_path' for testing input and file operations.
 
 #### Project Structure
 
+'''text
 moodtrack/
 ├── project.py
 ├── test_project.py
@@ -106,7 +107,7 @@ moodtrack/
 ├── data/
 │   └── moods.json
 └── graphs/
-
+'''
 #### How to Run
 
 Run the program using:
